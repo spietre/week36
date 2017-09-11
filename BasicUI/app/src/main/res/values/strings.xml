@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BasicUI</string>
+    <string name="meatballs">Meatbals</string>
+    <string name="fish">Fish</string>
+    <string name="chicken">Chicken</string>
+    <string name="steak">Steak</string>
+</resources>

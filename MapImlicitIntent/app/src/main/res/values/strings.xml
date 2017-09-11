@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapImlicitIntent</string>
+    <string name="descr">Give a location(lat,lng):</string>
+    <string name="shw_map">Show a map</string>
+</resources>
